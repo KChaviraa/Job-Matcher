@@ -1,0 +1,20 @@
+{
+  "name": "Kate Chavira",
+  "skills": [
+    "React",
+    "TypeScript",
+    "JavaScript",
+    "HTML",
+    "CSS",
+    "Next.js",
+    "Figma"
+  ],
+  "experience": "Frontend developer with experience building interactive web applications and 3D graphics (WebGL).",
+  "preferences": {
+    "preferred_types": [
+      "Full-time",
+      "Contract"
+    ],
+    "minimum_match_score": 60
+  }
+}

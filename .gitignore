@@ -1,0 +1,20 @@
+# Dependencies
+**/node_modules/
+node_modules/
+
+# Next.js build output
+**/.next/
+.next/
+
+# Local Environment Variables (Saves private API keys!)
+**/.env
+.env
+**/.env.local
+.env.local
+
+# Build/Archive files
+**/*.zip
+*.zip
+**/.DS_Store
+.DS_Store
+webgl-galaxy/

@@ -1,0 +1,142 @@
+[
+  {
+    "id": "1",
+    "title": "Senior Frontend Engineer",
+    "company": "TechNova",
+    "description": "We are looking for a Senior Frontend Engineer to lead the development of our core web platform using modern web technologies.",
+    "type": "Full-time",
+    "requiredSkills": [
+      "React",
+      "TypeScript",
+      "Next.js",
+      "CSS"
+    ]
+  },
+  {
+    "id": "2",
+    "title": "Backend Developer",
+    "company": "DataFlow Systems",
+    "description": "Join our backend team to build scalable microservices. You will be working heavily with cloud providers and modern databases.",
+    "type": "Full-time",
+    "requiredSkills": [
+      "Node.js",
+      "TypeScript",
+      "PostgreSQL",
+      "AWS"
+    ]
+  },
+  {
+    "id": "3",
+    "title": "Full Stack Engineer",
+    "company": "InnovateX",
+    "description": "Looking for a versatile engineer who can handle both frontend UI components and backend API integrations seamlessly.",
+    "type": "Full-time",
+    "requiredSkills": [
+      "React",
+      "Node.js",
+      "Express",
+      "MongoDB"
+    ]
+  },
+  {
+    "id": "4",
+    "title": "UI Developer",
+    "company": "DesignFirst",
+    "description": "Create pixel-perfect, accessible, and highly animated user interfaces for our flagship design tool.",
+    "type": "Contract",
+    "requiredSkills": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "Figma"
+    ]
+  },
+  {
+    "id": "5",
+    "title": "React Native Developer",
+    "company": "AppSphere",
+    "description": "Develop cross-platform mobile applications serving millions of users daily.",
+    "type": "Full-time",
+    "requiredSkills": [
+      "React Native",
+      "JavaScript",
+      "Redux"
+    ]
+  },
+  {
+    "id": "6",
+    "title": "DevOps Engineer",
+    "company": "CloudOps",
+    "description": "Maintain and scale our infrastructure, ensuring 99.99% uptime for our thousands of enterprise clients.",
+    "type": "Full-time",
+    "requiredSkills": [
+      "AWS",
+      "Docker",
+      "Kubernetes",
+      "CI/CD"
+    ]
+  },
+  {
+    "id": "7",
+    "title": "Data Scientist",
+    "company": "QuantAI",
+    "description": "Join our machine learning team to build predictive models and analyze massive datasets.",
+    "type": "Full-time",
+    "requiredSkills": [
+      "Python",
+      "SQL",
+      "TensorFlow",
+      "Pandas"
+    ]
+  },
+  {
+    "id": "8",
+    "title": "Systems Programmer",
+    "company": "CoreTech",
+    "description": "Work on low-level performance optimizations and core infrastructure using modern C++ standards.",
+    "type": "Full-time",
+    "requiredSkills": [
+      "C++",
+      "Linux",
+      "CMake",
+      "Multithreading"
+    ]
+  },
+  {
+    "id": "9",
+    "title": "High-Frequency Trading Engineer",
+    "company": "FinServe",
+    "description": "Develop ultra low-latency trading backend systems handling millions of transactions.",
+    "type": "Full-time",
+    "requiredSkills": [
+      "C++",
+      "Python",
+      "Algorithms"
+    ]
+  },
+  {
+    "id": "10",
+    "title": "Frontend Developer",
+    "company": "Google",
+    "description": "Create interactive 3D WebGL visualizations and responsive React layouts for Google Maps.",
+    "type": "Contract",
+    "requiredSkills": [
+      "React",
+      "HTML",
+      "CSS",
+      "Figma",
+      "WebGL"
+    ]
+  },
+  {
+    "id": "11",
+    "title": "Frontend Developer",
+    "company": "Google",
+    "description": "A Front End Developer at Google designs and builds the user-facing interfaces for Google's massive web applications. They translate UX designs into clean, responsive, and accessible code using HTML, CSS, JavaScript, and frameworks like Angular or React",
+    "type": "Contract",
+    "requiredSkills": [
+      "React",
+      "Figma"
+    ]
+  }
+]
